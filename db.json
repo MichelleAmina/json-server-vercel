@@ -2,9 +2,9 @@
     "Jewelery":[ 
     {
     "id": 1,
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "title": "Solid Gold Petite Micropave ",
     "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "description": "Beautiful Solid Gold Perfect For Elevating Every Outfit.",
     "category": "Bracelet",
     "image": "https://i.pinimg.com/564x/1b/57/77/1b5777410ab602fadcf8c0e8d567ab54.jpg",
     "rating": {
@@ -14,9 +14,9 @@
     },
     {
     "id": 2,
-    "title": "Solid Gold Petite Micropave ",
+    "title": "Two Tone Structured Bracelet ",
     "price": 168,
-    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "description": "18K Plated Wave Shape Cuff Bangle Inlaid Faux Pear.",
     "category": "Bracelet",
     "image": "https://i.pinimg.com/564x/64/30/dd/6430dd517760cc13a2b6eb1c8002f1cc.jpg",
     "rating": {
@@ -28,7 +28,7 @@
     "id": 3,
     "title": "White Gold Plated Princess",
     "price": 9.99,
-    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
     "category": "Ring",
     "image": "https://i.pinimg.com/564x/19/3e/f2/193ef2b7513d951f910f0208a2c7fb41.jpg",
     "rating": {
@@ -78,7 +78,7 @@
     "price": 29.99,
     "description": "Lovely rose quartz pendant necklace on a delicate chain.",
     "category": "Necklace",
-    "image": "https://i.pinimg.com/564x/c1/75/52/c175524aaf0eeece00eba7d508a327fc.jpg",
+    "image": "https://i.pinimg.com/564x/a7/67/a0/a767a05390186699388611683b6839ec.jpg",
     "rating": {
     "rate": 4.5,
     "count": 80
@@ -86,11 +86,11 @@
     },
     {
     "id": 8,
-    "title": "Men's Stainless Steel Black Onyx Ring",
+    "title": "Gold Plated Black Onyx Ring",
     "price": 45.50,
-    "description": "Masculine stainless steel ring featuring a bold black onyx stone.",
+    "description": "Gold plated ring featuring a bold black onyx stone.",
     "category": "Ring",
-    "image": "https://i.pinimg.com/564x/d5/00/19/d500196a4f9fb02adf87c2eb9cdd71a9.jpg",
+    "image": "https://i.pinimg.com/736x/36/3a/fb/363afb5afe512bfc21ebd4dce77bd980.jpg",
     "rating": {
     "rate": 4.2,
     "count": 120
@@ -114,7 +114,7 @@
     "price": 149.99,
     "description": "Elegant emerald and diamond stud earrings crafted in 14k white gold.",
     "category": "Earring",
-    "image": "https://i.pinimg.com/564x/33/76/a6/3376a67dfbb7836854f630590aaead03.jpg",
+    "image": "https://i.pinimg.com/564x/d9/31/47/d9314786eac4c0fd57e5aefa78d6bcdc.jpg",
     "rating": {
     "rate": 4.9,
     "count": 180
@@ -126,7 +126,7 @@
     "price": 79.99,
     "description": "Sparkling cubic zirconia tennis bracelet with a timeless design.",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/64/43/18/644318aeb81a3f25f8aba871ad77ab2b.jpg",
+    "image": "https://i.pinimg.com/564x/be/98/b6/be98b6fa14ba6508b03a4c984b4ca6ad.jpg",
     "rating": {
     "rate": 4.4,
     "count": 300
@@ -138,7 +138,7 @@
     "price": 39.99,
     "description": "Chic pearl drop earrings with a modern twist.",
     "category": "Earring",
-    "image": "https://i.pinimg.com/564x/28/7e/59/287e59a197da8782bd8eb549a54e065a.jpg",
+    "image": "https://i.pinimg.com/564x/94/ec/fc/94ecfcd643731c23851d5e0314b0d853.jpg",
     "rating": {
     "rate": 4.3,
     "count": 150
@@ -150,7 +150,7 @@
     "price": 29.99,
     "description": "Personalized gold plated pendant necklace featuring your chosen initial.",
     "category": "Necklace",
-    "image": "https://i.pinimg.com/564x/46/7d/99/467d991b6bbaa88898dbb6b572e79fa3.jpg",
+    "image": "https://i.pinimg.com/564x/3a/c1/45/3ac14564af5afbdc5436207eac429870.jpg",
     "rating": {
     "rate": 4.7,
     "count": 100
@@ -162,7 +162,7 @@
     "price": 799.99,
     "description": "Exquisite sapphire and diamond engagement ring set in 18k white gold.",
     "category": "Ring",
-    "image": "https://i.pinimg.com/564x/ec/58/d5/ec58d51b6b196d3e56016de8925479d7.jpg",
+    "image": "https://i.pinimg.com/564x/36/07/fe/3607fee5d65874c9e411edd5265abcde.jpg",
     "rating": {
     "rate": 4.9,
     "count": 220
@@ -170,11 +170,11 @@
     },
     {
     "id": 15,
-    "title": "Sterling Silver Celtic Knot Bangle",
+    "title": "Sterling Silver Knot Bangle",
     "price": 59.95,
-    "description": "Beautiful sterling silver bangle featuring intricate Celtic knotwork.",
+    "description": "Beautiful sterling silver bangle featuring intricate knotwork.",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/26/7d/8a/267d8a1cb897f0d4d83ca6770b8a2fcb.jpg",
+    "image": "https://i.pinimg.com/564x/4c/97/a4/4c97a426f34f5ddd11e5ab4d4bd222d0.jpg",
     "rating": {
     "rate": 4.5,
     "count": 130
@@ -184,9 +184,9 @@
     "id": 16,
     "title": "Ruby and Diamond Halo Necklace",
     "price": 249.99,
-    "description": "Dazzling ruby and diamond halo necklace in 14k yellow gold.",
+    "description": "Dazzling ruby and diamond halo necklace.",
     "category": "Necklace",
-    "image": "https://i.pinimg.com/564x/ca/08/ff/ca08ffe5e6112ad5c045978a39d9f9d5.jpg",
+    "image": "https://i.pinimg.com/564x/74/b3/52/74b35242391c705f6830eebee99eb4df.jpg",
     "rating": {
     "rate": 4.8,
     "count": 180
@@ -194,11 +194,11 @@
     },
     {
     "id": 17,
-    "title": "Men's Titanium Carbon Fiber Bracelet",
+    "title": "Roman Numeral Bracelet",
     "price": 79.99,
-    "description": "Sleek men's bracelet featuring titanium links and carbon fiber accents.",
+    "description": "Black and white belle roman numerals double layer gold bracelet",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/ca/08/ff/ca08ffe5e6112ad5c045978a39d9f9d5.jpg",
+    "image": "https://i.pinimg.com/564x/b9/17/e0/b917e0d526e09d3b88ec31a4987df49e.jpg",
     "rating": {
     "rate": 4.6,
     "count": 90
@@ -220,7 +220,7 @@
     "id": 19,
     "title": "14k White Gold Diamond Hoop Earrings",
     "price": 299.99,
-    "description": "Luxurious 14k white gold hoop earrings adorned with sparkling diamonds.",
+    "description": "Luxurious 14k white gold hoop earrings adorned with pearls.",
     "category": "Earring",
     "image": "https://i.pinimg.com/564x/33/fb/a1/33fba1aa5bced76d6eb4153e5547eb41.jpg",
     "rating": {
@@ -242,10 +242,10 @@
     },
     {
     "id": 21,
-    "title": "Engraved Name Bar Necklace",
+    "title": "18k Gold Hoop Earrings",
     "price": 69.99,
-    "description": "Chic engraved name bar necklace personalized with your chosen name or word.",
-    "category": "Necklace",
+    "description": "Chic hoop earrings perfect for all occassions.",
+    "category": "Earring",
     "image": "https://i.pinimg.com/474x/1a/1f/d6/1a1fd619aa55cb70d603968add14cc6f.jpg",
     "rating": {
     "rate": 4.5,
@@ -254,11 +254,11 @@
     },
     {
     "id": 22,
-    "title": "Men's Black Leather Bracelet",
+    "title": "Black Onyx Five Stone Bracelet",
     "price": 29.99,
-    "description": "Stylish men's bracelet crafted from genuine black leather with a stainless steel clasp.",
+    "description": "Stylish bracelet crafted from genuine onyx with a gold chain.",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/24/30/98/2430987373d8ec4281d2ad0467bb1cdf.jpg",
+    "image": "https://i.pinimg.com/564x/c6/28/b9/c628b9780182789fd07ca04339a3bf85.jpg",
     "rating": {
     "rate": 4.2,
     "count": 100
@@ -266,9 +266,9 @@
     },
     {
     "id": 23,
-    "title": "14k Yellow Gold Diamond Cross Pendant",
+    "title": "14k Yellow Gold Onyx Necklace",
     "price": 199.99,
-    "description": "Beautiful 14k yellow gold cross pendant accented with sparkling diamonds.",
+    "description": "Beautiful 14k yellow gold pendant accented with a square onyx stone.",
     "category": "Necklace",
     "image": "https://i.pinimg.com/564x/42/d6/bb/42d6bb1e67d2528db4f7f8722cf41b9e.jpg",
     "rating": {
@@ -278,11 +278,11 @@
     },
     {
     "id": 24,
-    "title": "Turquoise Bead Bracelet",
+    "title": "Turquoise Bracelet",
     "price": 49.99,
-    "description": "Bohemian-style turquoise bead bracelet perfect for adding a pop of color to your look.",
+    "description": "Stainless steel turquoise bead bracelet perfect for adding a pop of color to your look.",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/ca/f6/2c/caf62c6c19e3ebdd86f7461ccc8d4771.jpg",
+    "image": "https://i.pinimg.com/564x/57/6e/ab/576eab2ceb9de25e7e2326a161542782.jpg",
     "rating": {
     "rate": 4.6,
     "count": 80
@@ -290,9 +290,9 @@
     },
     {
     "id": 25,
-    "title": "Sterling Silver Filigree Earrings",
+    "title": "Woven Gold Hoop Earrings",
     "price": 34.99,
-    "description": "Intricate sterling silver filigree earrings with a vintage-inspired design.",
+    "description": "Intricate 18k gold earrings with a woven design.",
     "category": "Earring",
     "image": "https://i.pinimg.com/474x/f6/90/40/f6904005b9bf27815fccc3a43e7c1548.jpg",
     "rating": {
@@ -314,11 +314,11 @@
     },
     {
     "id": 27,
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "title": "Women's Adjustable Flower Bracelet",
     "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
+    "description": "Delicate bracelet inspired by the delicate beauty of flowers.",
     "category": "Bracelet",
-    "image": "https://i.pinimg.com/564x/c0/90/9f/c0909f213c60cdf6ccc7f1d88f04efbe.jpg",
+    "image": "https://i.pinimg.com/564x/cc/f9/44/ccf94407b6013555db0cba077c221e10.jpg",
     "rating": {
     "rate": 4.6,
     "count": 400
