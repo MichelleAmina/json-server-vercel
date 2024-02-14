@@ -66,7 +66,7 @@
     "price": 349.99,
     "description": "Beautiful 14k gold rope chain necklace with intricate diamond-cut detailing.",
     "category": "Necklace",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/2f/88/c4/2f88c44b5f8bc30c7d209cf63987cdb7.jpg",
     "rating": {
     "rate": 4.7,
     "count": 200
@@ -102,7 +102,7 @@
     "price": 19.95,
     "description": "Classic sterling silver hoop earrings perfect for everyday wear.",
     "category": "Earring",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/30/0c/f5/300cf5f082f0ae715e88815873e76210.jpg",
     "rating": {
     "rate": 4.6,
     "count": 250
@@ -210,7 +210,7 @@
     "price": 49.99,
     "description": "Elegant crystal drop pendant necklace perfect for special occasions.",
     "category": "Necklace",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/dc/a7/d2/dca7d2887d027e69a66f7a14e1cf1cc7.jpg",
     "rating": {
     "rate": 4.4,
     "count": 150
@@ -258,7 +258,7 @@
     "price": 29.99,
     "description": "Stylish men's bracelet crafted from genuine black leather with a stainless steel clasp.",
     "category": "Bracelet",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/24/30/98/2430987373d8ec4281d2ad0467bb1cdf.jpg",
     "rating": {
     "rate": 4.2,
     "count": 100
@@ -282,7 +282,7 @@
     "price": 49.99,
     "description": "Bohemian-style turquoise bead bracelet perfect for adding a pop of color to your look.",
     "category": "Bracelet",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/ca/f6/2c/caf62c6c19e3ebdd86f7461ccc8d4771.jpg",
     "rating": {
     "rate": 4.6,
     "count": 80
@@ -306,7 +306,7 @@
     "price": 59.99,
     "description": "Unique birthstone necklace customized with your chosen birthstone.",
     "category": "Necklace",
-    "image": "",
+    "image": "https://i.pinimg.com/564x/b6/24/48/b62448f3c0069c19825f712563b5a6c8.jpg",
     "rating": {
     "rate": 4.7,
     "count": 150
@@ -318,9 +318,9 @@
     "id": 27,
     "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
     "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "bracelet",
-    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/c0/90/9f/c0909f213c60cdf6ccc7f1d88f04efbe.jpg",
     "rating": {
     "rate": 4.6,
     "count": 400
@@ -330,9 +330,9 @@
     "id": 28,
     "title": "Solid Gold Petite Micropave ",
     "price": 168,
-    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-    "category": "ring",
-    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "Ring",
+    "image": "https://i.pinimg.com/564x/b4/88/5c/b4885c52f72f871aba9961e5ad532b87.jpg",
     "rating": {
     "rate": 3.9,
     "count": 70
@@ -343,8 +343,8 @@
     "title": "White Gold Plated Princess",
     "price": 9.99,
     "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-    "category": "ring",
-    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Ring",
+    "image": "https://i.pinimg.com/564x/6b/b6/7c/6bb67c4ca51ab09177b4979737696c37.jpg",
     "rating": {
     "rate": 3,
     "count": 400
@@ -355,8 +355,8 @@
     "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
     "price": 10.99,
     "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-    "category": "earrings",
-    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Earring",
+    "image": "https://i.pinimg.com/564x/3b/f3/97/3bf397bd3593a5ab6475b677ea1d452f.jpg",
     "rating": {
     "rate": 1.9,
     "count": 100
@@ -367,8 +367,8 @@
     "title": "14k Yellow Gold Solid Diamond Eternity Band",
     "price": 849.99,
     "description": "Beautiful 14k yellow gold eternity band featuring round-cut diamonds. Perfect for weddings, anniversaries, or special occasions.",
-    "category": "ring",
-    "image":"https://i.pinimg.com/564x/c6/b4/56/c6b45652b8a63b821ecb9f7b9639b1d5.jpg",
+    "category": "Ring",
+    "image": "https://i.pinimg.com/564x/08/bc/de/08bcde1aec8467ec620e0390dc81c81f.jpg",
     "rating": {
     "rate": 4.7,
     "count": 150
@@ -376,11 +376,11 @@
     },
     {
     "id": 32,
-    "title": "Sterling Silver Infinity Heart Necklace",
+    "title": "Sterling Silver Infinity Necklace",
     "price": 39.95,
-    "description": "Stunning sterling silver necklace featuring an infinity symbol intertwined with a heart. Makes a perfect gift for loved ones.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/564x/11/f6/ac/11f6ac85cc2c232193c8aceec10cccf8.jpg",
+    "description": "Stunning sterling silver necklace featuring an infinity symbol intertwined. Makes a perfect gift for loved ones.",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/a1/b5/61/a1b5616f45454a8b499b3a4d759a120a.jpg",
     "rating": {
     "rate": 4.5,
     "count": 200
@@ -391,8 +391,8 @@
     "title": "Vintage Style Cushion Shape Sapphire Bracelet",
     "price": 299.99,
     "description": "Exquisite vintage-style bracelet featuring cushion-cut sapphires set in sterling silver. Adds a touch of elegance to any outfit.",
-    "category": "bracelet",
-    "image": "https://i.pinimg.com/564x/9b/f1/6d/9bf16d2ecd2b703947a88f6bb4c7a90b.jpg",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/9a/10/34/9a1034bc77ba9722ad4f1bca40e5bcd0.jpg",
     "rating": {
     "rate": 4.9,
     "count": 100
@@ -403,8 +403,8 @@
     "title": "Yellow Gold Plated Sterling Silver Necklace with CZ",
     "price": 79.99,
     "description": "Stunning yellow gold plated sterling silver necklace adorned with sparkling cubic zirconia stones. Perfect for adding glamour to any ensemble.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/564x/89/0b/88/890b88e37210b7252e9a6f228f9d7c87.jpg",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/4a/d4/0f/4ad40f0b51c5d1a97890402da09306aa.jpg",
     "rating": {
     "rate": 4.3,
     "count": 180
@@ -412,11 +412,11 @@
     },
     {
     "id": 35,
-    "title": "Pearl Necklace and Earring Set",
+    "title": "Pearl Necklace",
     "price": 129.99,
-    "description": "Elegant pearl necklace and earring set made with freshwater pearls. Perfect for special occasions and formal events.",
-    "category": "necklace and earring ",
-    "image": "https://i.pinimg.com/564x/6f/39/5d/6f395d98519bf28ebb9044742a8aa3c5.jpg",
+    "description": "Elegant pearl necklace made with freshwater pearls. Perfect for special occasions and formal events.",
+    "category": "Necklace ",
+    "image": "https://i.pinimg.com/564x/eb/7d/3a/eb7d3a240b537954f402cbefff5462f8.jpg",
     "rating": {
     "rate": 4.6,
     "count": 120
@@ -424,11 +424,11 @@
     },
     {
     "id": 36,
-    "title": "14k Gold Two-Tone Diamond Cross Pendant",
+    "title": "Two-Tone Interlocking Circle Pendant",
     "price": 649.99,
-    "description": "Beautiful two-tone diamond cross pendant crafted in 14k gold. Perfect for expressing faith and style.",
-    "category": "cross necklace",
-    "image": "https://i.pinimg.com/564x/bc/79/ad/bc79ad30d8477311e12c1a6e7f4b6a2d.jpg",
+    "description": "Beautiful two-tone interlocking circle pendant crafted in 14k gold.",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/50/14/ab/5014aba72cd2903657711461adfe2cef.jpgg",
     "rating": {
     "rate": 4.8,
     "count": 90
@@ -439,8 +439,8 @@
     "title": "Platinum-Plated Sterling Silver Round-Cut Stud Earrings",
     "price": 29.99,
     "description": "Elegant round-cut stud earrings crafted in platinum-plated sterling silver. Versatile and perfect for everyday wear.",
-    "category": "earrings",
-    "image": "https://i.pinimg.com/564x/b1/47/9b/b1479b3377bddb5aca0b3d040e37aa29.jpg",
+    "category": "Earring",
+    "image": "https://i.pinimg.com/564x/81/16/2e/81162e107aee7eafb9f93ee862cf379a.jpg",
     "rating": {
     "rate": 4.4,
     "count": 220
@@ -451,8 +451,8 @@
     "title": "14k Yellow Gold Diamond Tennis Bracelet",
     "price": 1199.99,
     "description": "Exquisite 14k yellow gold tennis bracelet adorned with sparkling diamonds. A timeless piece for any jewelry collection.",
-    "category": "bracelet",
-    "image": "https://i.pinimg.com/564x/18/1a/56/181a562a666d7d346c6c8e32fe04880c.jpg",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/69/69/83/6969833b56afd927e17cb67c0ff6f773.jpg",
     "rating": {
     "rate": 4.7,
     "count": 150
@@ -463,8 +463,8 @@
     "title": "White Gold Plated Cubic Zirconia Wedding Band",
     "price": 49.99,
     "description": "Stunning white gold plated wedding band featuring sparkling cubic zirconia stones. Perfect for expressing eternal love.",
-    "category": "ring",
-    "image": "https://i.pinimg.com/564x/8c/8f/4c/8c8f4c440cb405963bdb1a1da80816c7.jpg",
+    "category": "Ring",
+    "image": "https://i.pinimg.com/564x/57/29/9d/57299d0c474e506167038131a76b0f5d.jpg",
     "rating": {
     "rate": 4.5,
     "count": 100
@@ -475,8 +475,8 @@
     "title": "Sterling Silver Pendant Necklace",
     "price": 59.99,
     "description": "Elegant sterling silver pendant necklace featuring a minimalist design. Perfect for everyday wear or special occasions.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/564x/d6/10/8f/d6108f581bcc64bd9d59583f59374f05.jpg",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/d0/a6/77/d0a6775305cadc0fcea2ef254b58416f.jpg",
     "rating": {
     "rate": 4.3,
     "count": 180
@@ -486,9 +486,9 @@
     "id": 41,
     "title": "14k Gold Round-Cut Diamond Engagement Ring",
     "price": 2999.99,
-    "description": "Exquisite 14k gold engagement ring featuring a round-cut diamond. Symbolizes eternal love and commitment.",
-    "category": "ring",
-    "image": "https://i.pinimg.com/564x/c7/2f/77/c72f774e125301bb4f0ee3258724e16c.jpg",
+    "description": "Exquisite 14k gold engagement ring featuring a round-cut diamond.",
+    "category": "Ring",
+    "image": "https://i.pinimg.com/564x/dd/35/1c/dd351ccf1ae21aacdb537afd000d9c89.jpg",
     "rating": {
     "rate": 4.9,
     "count": 200
@@ -496,11 +496,11 @@
     },
     {
     "id": 42,
-    "title": "925 Sterling Silver Necklace with Heart Pendant",
+    "title": "The Alma Round Champagne Diamond Ring",
     "price": 49.99,
     "description": "Beautiful 925 sterling silver necklace featuring a heart-shaped pendant. A symbol of love and affection.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/736x/a6/b1/a1/a6b1a1a7018061db0937e2b66f212be8.jpg",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/92/ae/2c/92ae2cbaeaaa4acbf988a346889139ec.jpg",
     "rating": {
     "rate": 4.5,
     "count": 150
@@ -508,11 +508,11 @@
     },
     {
     "id": 43,
-    "title": "14k Rose Gold Diamond Halo Pendant Necklace",
+    "title": "14k Rose Gold Diamond Pendant Necklace",
     "price": 799.99,
-    "description": "Exquisite 14k rose gold pendant necklace featuring a diamond halo design. Perfect for adding elegance to any ensemble.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/564x/ad/b2/ee/adb2ee6d0a57208dce156eed9f43b349.jpg",
+    "description": "Exquisite 14k rose gold pendant necklace featuring a square halo design.",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/21/f9/8d/21f98db7fef5a8739b258a51a72b754d.jpg",
     "rating": {
     "rate": 4.8,
     "count": 200
@@ -520,11 +520,11 @@
     },
     {
     "id": 44,
-    "title": "925 Sterling Silver Hoop Earrings",
+    "title": "Gold Hoop Earrings",
     "price": 29.95,
-    "description": "Stylish 925 sterling silver hoop earrings suitable for any occasion. Adds a touch of sophistication to any outfit.",
-    "category": "earrings",
-    "image": "https://i.pinimg.com/564x/0a/b6/78/0ab67880b3beff39204a2ee733d551f0.jpg",
+    "description": "Stylish gold hoop earrings suitable for any occasion. Adds a touch of sophistication to any outfit.",
+    "category": "Earring",
+    "image": "https://i.pinimg.com/564x/5c/3f/9b/5c3f9ba20be7b4c07414e819e751b039.jpg",
     "rating": {
     "rate": 4.6,
     "count": 120
@@ -535,8 +535,8 @@
     "title": "Platinum-Plated Swarovski Crystal Bracelet",
     "price": 119.99,
     "description": "Gorgeous platinum-plated bracelet adorned with sparkling Swarovski crystals. Adds glamour to any wrist.",
-    "category": "bracelet",
-    "image": "https://i.pinimg.com/564x/68/68/2d/68682d2a4389b743bb33ef117f05b1b3.jpg",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/ca/90/a6/ca90a69c9db59ecdc6de13c4041a8d45.jpg",
     "rating": {
     "rate": 4.7,
     "count": 180
@@ -547,8 +547,8 @@
     "title": "18k Yellow Gold Diamond Stud Earrings",
     "price": 599.99,
     "description": "Stunning 18k yellow gold stud earrings featuring sparkling diamonds. Perfect for adding luxury to any look.",
-    "category": "earrings",
-    "image": "https://i.pinimg.com/564x/c8/35/d5/c835d52f98a511ce44447bc101de5719.jpg",
+    "category": "Earring",
+    "image": "https://i.pinimg.com/564x/eb/ed/3a/ebed3aa881f07e2efdbca4d7f0fd71d1.jpg",
     "rating": {
     "rate": 4.9,
     "count": 90
@@ -556,11 +556,11 @@
     },
     {
     "id": 47,
-    "title": "Rose Gold Plated Sterling Silver Bracelet",
+    "title": "Rose Gold  Bracelet",
     "price": 39.99,
-    "description": "Chic rose gold plated sterling silver bracelet suitable for everyday wear. Adds a touch of elegance to any wrist.",
-    "category": "bracelet",
-    "image": "https://i.pinimg.com/564x/05/b1/d6/05b1d69c884d606497509652135df3c9.jpg",
+    "description": "Chic rose gold bracelet suitable for everyday wear. Adds a touch of elegance to any wrist.",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/95/be/d1/95bed1e5389b3dc5e02fe6ad48726dc9.jpg",
     "rating": {
     "rate": 4.4,
     "count": 220
@@ -571,8 +571,8 @@
     "title": "14k Gold Hoop Earrings with Diamond Accents",
     "price": 249.99,
     "description": "Elegant 14k gold hoop earrings featuring diamond accents. Perfect for adding sparkle to any ensemble.",
-    "category": "earrings",
-    "image": "https://i.pinimg.com/564x/bc/3f/7c/bc3f7c495e641a9aa9df1f7312495d60.jpg",
+    "category": "Earring",
+    "image": "https://i.pinimg.com/564x/e5/40/cc/e540cca2db0e2aafe93e2777a5433429.jpg",
     "rating": {
     "rate": 4.6,
     "count": 100
@@ -582,8 +582,8 @@
     "id": 49,
     "title": "Pearl Stud Earrings",
     "price": 79.99,
-    "description": "Classic pearl stud earrings crafted with freshwater pearls. Timeless and elegant, suitable for any occasion.",
-    "category": "earrings",
+    "description": "Timeless and elegant classic pearl stud earrings crafted with freshwater pearls.",
+    "category": "Earring",
     "image": "https://i.pinimg.com/564x/b9/2a/a3/b92aa39aac6056f81b9a6681b922ea89.jpg",
     "rating": {
     "rate": 4.5,
@@ -592,11 +592,11 @@
     },
     {
     "id": 50,
-    "title": "Sterling Silver Bangle Bracelet",
+    "title": "Sterling Silver Cuff Bracelet",
     "price": 49.95,
-    "description": "Simple yet elegant sterling silver bangle bracelet. Versatile and suitable for everyday wear.",
-    "category": "bracelet",
-    "image": "https://i.pinimg.com/564x/4f/d2/7f/4fd27fe03bf567e19f1573bdfdf9019f.jpg",
+    "description": "Simple yet elegant sterling silver cuff bracelet. Versatile and suitable for everyday wear.",
+    "category": "Bracelet",
+    "image": "https://i.pinimg.com/564x/ee/85/10/ee8510ba6f0f8f1606ca8e89701b925a.jpg",
     "rating": {
     "rate": 4.3,
     "count": 170
@@ -606,9 +606,9 @@
     "id": 51,
     "title": "Gold Plated Chain Necklace",
     "price": 34.99,
-    "description": "Stylish gold plated chain necklace suitable for both men and women. Adds a touch of sophistication to any attire.",
-    "category": "necklace",
-    "image": "https://i.pinimg.com/564x/1d/10/0f/1d100f644a9f83afdf51f0508019750d.jpg",
+    "description": "Stylish gold plated chain necklace. Adds a touch of sophistication to any attire.",
+    "category": "Necklace",
+    "image": "https://i.pinimg.com/564x/f6/88/f7/f688f704893b3f5ac6a69e0af5798dd6.jpg",
     "rating": {
     "rate": 4.8,
     "count": 130
