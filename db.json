@@ -614,5 +614,14 @@
     }
    
 
-]
+],
+ "Contact":[
+    {
+        "email": "JohnDoe@gmail.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "message": "This application  is great!"   
+    }
+
+ ]
 }
